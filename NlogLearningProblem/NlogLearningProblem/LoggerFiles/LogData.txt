@@ -1,0 +1,4 @@
+﻿2022-07-11 22:04:46.4576 WARN Input Should Not Be 0 Or Less Than Zero
+2022-07-11 22:04:46.5488 ERROR Input Should Be Positive Number
+2022-07-11 22:04:59.1418 DEBUG Debug Succesfull with sum operation
+2022-07-11 22:04:59.2694 INFO Succesfully completed and Sum is99
